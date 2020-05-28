@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://haw0k:jLVunMxx2M2MJeW@cluster0-glnhx.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtSecret": "haw0k mern project secret",
+  "baseUrl": "http://localhost:5000"
+}
